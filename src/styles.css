@@ -16,5 +16,16 @@ body {
   /*
    * CSS image reference example.
    */
-  background-image: url('./images/bg-pattern.png');
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  font-size: 26px;
+  font-weight: 700;
+}
+.field {
+  padding-left: 15px;
 }
